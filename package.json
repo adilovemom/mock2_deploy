@@ -1,0 +1,24 @@
+{
+  "name": "mock2_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilovemom/mock2_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilovemom/mock2_deploy/issues"
+  },
+  "homepage": "https://github.com/adilovemom/mock2_deploy#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
